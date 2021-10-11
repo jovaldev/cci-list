@@ -5,11 +5,11 @@ the singular, actionable statements that comprise an IA control or IA best pract
 
 ## CCI List ##
 
-The following CCI list was published to the [DoD Cyber Exchange]
-(https://public.cyber.mil/stigs/cci/) (formerly the Information Assurance Support Environment
-(IASE)) on June 27th, 2016 as version 2016-06-27 by the [Cyber Directorate of the Defense 
-Information Systems Agency (DISA)](https://public.cyber.mil/about-cyber/) and was imported to 
-this site on October 10th, 2021 for the convenience of Joval users and the broader security automation community.
+The following CCI list was published to the [DoD Cyber Exchange](https://public.cyber.mil/stigs/cci/)
+(formerly the Information Assurance Support Environment (IASE)) on June 27th, 2016 as version
+2016-06-27 by the [Cyber Directorate of the Defense Information Systems Agency (DISA)](https://public.cyber.mil/about-cyber/)
+and was imported to this site on October 10th, 2021 for the convenience of Joval users and the broader
+security automation community.
 
 CCI                             | Definition
 ------------------------------- | -------------------------------

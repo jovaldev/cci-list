@@ -110,11 +110,11 @@ class CciItem:
     
     @staticmethod
     def source_markdown_helper(publish_date, version, import_date):
-        return '''published to the [DoD Cyber Exchange]
-(https://public.cyber.mil/stigs/cci/) (formerly the Information Assurance Support Environment
-(IASE)) on {publish_date} as version {version} by the [Cyber Directorate of the Defense 
-Information Systems Agency (DISA)](https://public.cyber.mil/about-cyber/) and was imported to 
-this site on {import_date} for the convenience of Joval users and the broader security automation community.'''.format(publish_date=publish_date, version=version, import_date=import_date)
+        return '''published to the [DoD Cyber Exchange](https://public.cyber.mil/stigs/cci/)
+(formerly the Information Assurance Support Environment (IASE)) on {publish_date} as version
+{version} by the [Cyber Directorate of the Defense Information Systems Agency (DISA)](https://public.cyber.mil/about-cyber/)
+and was imported to this site on {import_date} for the convenience of Joval users and the broader
+security automation community.'''.format(publish_date=publish_date, version=version, import_date=import_date)
     
     
     def to_markdown(self, publish_date, version, import_date):
